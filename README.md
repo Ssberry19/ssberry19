@@ -27,7 +27,7 @@ tech_skills = {
 ```
 
 ### 🏆 Achievements & Projects:
-- 🏃‍♀️ Fitness ML App(https://github.com/Ssberry19/Morphe): Developed a personalized fitness & nutrition app with ML-powered recommendations. 
+- 🏃‍♀️[**Fitness ML App**](https://github.com/Ssberry19/Morphe): Developed a personalized fitness & nutrition app with ML-powered recommendations.
 - 🛡️ **Quat App**: Quarter-finalist at Technovation Girls 2021 - domestic violence prevention app
 - ☁️ **AWS Certified**: Cloud Web Application Builder (2025)
 - 🎓 **International Experience**: Exchange semester at ODTÜ, Turkey
